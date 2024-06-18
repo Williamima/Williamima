@@ -1,6 +1,6 @@
 ## Olá! Meu nome e William!
       
-- 🌱 Estudando na Kenzie Academy Brasil
+- 🌱 Programador Fullstack formado na Kenzie Academy Brasil
 - 📫 Contate-me no Email: williamwedeson266@gmail.om
 - 😄 Pronomes: Ele/Dele
 
